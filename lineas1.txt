@@ -5,4 +5,7 @@ public class Dibuja{
 		println("hola mundo");
 
 	}
+	public estoyAqui(){
+	
+	}
 }
